@@ -6,7 +6,13 @@ Gets Random Jokes using Axios with a little Vuetify
 
 ## Demo
 
+https://stoic-volhard-c0e833.netlify.com/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9343c0fb-8545-48ed-b1d0-4a197c33c823/deploy-status)](https://app.netlify.com/sites/stoic-volhard-c0e833/deploys)
+
 ## Repo
+
+https://github.com/xhostcom/vuetify-joke-app.git
 
 ## Author
 
